@@ -2,17 +2,21 @@
   text-align: center;
 }
 img{
-  width: 100px;
+  width: 33%;
   height: auto;
+  float: inline-end;
 }
 .highlight{
   background-color: yellow;
 }
 h3{
+  text-align: center;
   color: green;
+  
 }
 h4{
   color: green;
+  text-align: left;
 }
 .black p{
   color: black;
@@ -34,6 +38,22 @@ h1{
   padding: 4x;
   margin: 5px;
   box-sizing: border-box;
+  background-color: lightgreen;
+}
+ul{
+  text-align: left;
+  list-style-position: inside;
+}
+ol{
+  text-align: center;
+  list-style-position: inside;
+}
+.float{
+  width: 40%;
+  float: left;
+}
+p.bottom-text{
+  color: aqua;
 }
 
 
