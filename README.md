@@ -22,7 +22,7 @@ None
 Please contact me at <hagoodwi@gmail.com> for any support issues with this webpage.
 
 ## Technologies Used
-Several features of HTML were used, including the box model, floats, columns, lists, and many more. The bootstrap framework was also used to help style the website, along with a custom CSS stylesheet. 
+Several features of HTML were used, including the box model, floats, columns, lists, and many more. The bootstrap framework was also used to help style the website, along with a custom CSS stylesheet. No templates were used, and all of the code is original to this project. 
 
 ### License
 

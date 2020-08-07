@@ -16,7 +16,7 @@ h3{
 }
 h4{
   color: green;
-  text-align: left;
+  text-align: center;
 }
 .black p{
   color: black;
@@ -30,7 +30,6 @@ h4{
 }
 
 h1{
-  font-family: 'Courier New', Courier, monospace;
   color: grey;
 }
 .background{
@@ -58,6 +57,9 @@ ol{
 }
 ul.language{
   text-align: center;
+}
+.courier{
+  font-family: 'Courier New', Courier, monospace;
 }
 
 
