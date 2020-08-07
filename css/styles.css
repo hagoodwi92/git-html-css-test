@@ -1,5 +1,6 @@
 .container{
   text-align: center;
+
 }
 img{
   width: 100px;
@@ -8,7 +9,25 @@ img{
 .highlight{
   background-color: yellow;
 }
-.background{
+h3{
+  color: green;
+}
+h4{
+  color: green;
+}
+.black p{
+  color: black;
   
+}
+.black h3 {
+  color: black;
+}
+.black h4{
+  color: black;
+}
+
+h1{
+  font-family: 'Courier New', Courier, monospace;
+  color: grey;
 }
 
