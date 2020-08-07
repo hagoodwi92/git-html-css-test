@@ -15,7 +15,7 @@ This landing page of a portfolio website displays links to all of my Github Repo
 
 
 ## Known Bugs
-None
+None. Minor design issues. 
 
 ## Support and contact details
 
