@@ -49,12 +49,15 @@ ol{
   list-style-position: inside;
 }
 .float{
-  width: 40%;
+  width: 300px;
+  height: auto;
   float: left;
 }
-p.bottom-text{
-  color: aqua;
+.projects{
+  text-align: left;
 }
+
+
 
 
 
