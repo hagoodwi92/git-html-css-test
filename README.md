@@ -9,7 +9,7 @@ This landing page of a portfolio website displays links to all of my Github Repo
 
 ## Setup/Installation Requirements
 
-* Either navigate to <a href="hagoodwi92.github.io/git-html-css-test/" title="my portfolio"> </a> 
+* Either navigate to [my portfolio](hagoodwi92.github.io/git-html-css-test/).
 * Or open index.html in your desired web browser
 * Than, navigate the webpage to view desired information. 
 
